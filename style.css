@@ -1,0 +1,25 @@
+
+.rounded-circle{
+    height:150px ;  width:150px ;
+}
+.details-table{
+    border: 2px solid lightgreen;
+}
+#about{
+background: palegreen;    
+}
+.jumbotron{
+    margin-bottom: 0px;
+}
+#skills{
+   background-color: palevioletred;
+}
+.card-body{
+    background-color: lightgray;
+}
+#education{
+    background-color:rgb(255, 161, 169);
+}
+#footer{
+    background-color: lightskyblue;
+}
